@@ -1,6 +1,6 @@
 I have mentioned how to run backend and frontend inside the backend README.md and frontend README.md
 
-Approach:
+##Approach:
 The provided code implements a Flask backend and React frontend for uploading audio or video files, converting them to text using speech recognition, summarizing the text using a Hugging Face model, and displaying the original text and summary in the frontend. Here's a breakdown of the approach:
 
 ### Flask Backend (`app.py`):
